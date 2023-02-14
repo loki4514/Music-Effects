@@ -14,3 +14,7 @@ https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results
 - Replace a missing values with KNN Imputer.
 
 
+###### Insights from Power Bi
+- Music Effects :- Improved mental health, according to the poll 
+  - 
+
